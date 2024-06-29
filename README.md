@@ -21,11 +21,33 @@ Welcome to my profile! I'm a robotics graduate student at the University of Mich
 <code><img height="50" alt="rust" src="./assets/program_lang/rust.png"></code>
 <code><img height="50" alt="latex" src="./assets/program_lang/latex.png"></code>
 
-<br>
 
 ## Robotics Framework and Simulators
 
-<code><img height="50" alt="ROS" src="./assets/robo_fw_sim/ros.png"></code>
+<code><img height="50" alt="ros1" src="./assets/robo_fw_sim/ros1.png"></code>
+<code><img height="50" alt="ros2" src="./assets/robo_fw_sim/ros2.png"></code>
+<code><img height="50" alt="gazebo" src="./assets/robo_fw_sim/gazebo.png"></code>
+<code><img height="50" alt="open-rmf" src="./assets/robo_fw_sim/openrmf.png"></code>
+<code><img height="50" alt="isaac" src="./assets/robo_fw_sim/isaac.png"></code>
+<code><img height="50" alt="moveit1" src="./assets/robo_fw_sim/moveit1.png"></code>
+<code><img height="50" alt="moveit2" src="./assets/robo_fw_sim/moveit2.png"></code>
+<code><img height="50" alt="webots" src="./assets/robo_fw_sim/webots.png"></code>
+<code><img height="50" alt="couppelia_sim" src="./assets/robo_fw_sim/couppelia_sim.png"></code>
+<code><img height="50" alt="yarp" src="./assets/robo_fw_sim/yarp.png"></code>
+<code><img height="50" alt="orocos" src="./assets/robo_fw_sim/orocos.png"></code>
+<code><img height="50" alt="robotics_library" src="./assets/robo_fw_sim/robotics_library.png"></code>
+<code><img height="50" alt="open_rave" src="./assets/robo_fw_sim/open_rave.png"></code>
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **trushant05/trushant05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
