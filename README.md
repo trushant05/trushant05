@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Trushant Adeshara
 
-![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftrushant-adeshara%2F)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftrushant-adeshara%2F)](https://www.linkedin.com/in/trushant-adeshara/)
 
 
 
