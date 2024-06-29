@@ -21,7 +21,11 @@ Welcome to my profile! I'm a robotics graduate student at the University of Mich
 <code><img height="50" alt="rust" src="./assets/program_lang/rust.png"></code>
 <code><img height="50" alt="latex" src="./assets/program_lang/latex.png"></code>
 
+<br>
 
+## Robotics Framework and Simulators
+
+<code><img height="50" alt="ROS" src="./assets/robo_fw_sim/ros.png"></code>
 
 <!--
 **trushant05/trushant05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
