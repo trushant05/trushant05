@@ -11,7 +11,16 @@ Welcome to my profile! I'm a robotics graduate student at the University of Mich
 
 ## Programming Languages
 
-<code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" alt="javascript" src="./assets/program_lang/c.png"></code>
+<code><img height="40" alt="javascript" src="./assets/program_lang/cpp.png"></code>
+<code><img height="40" alt="javascript" src="./assets/program_lang/python.png"></code>
+<code><img height="40" alt="javascript" src="./assets/program_lang/js.png"></code>
+<code><img height="40" alt="javascript" src="./assets/program_lang/erlang.png"></code>
+<code><img height="40" alt="javascript" src="./assets/program_lang/elixir.png"></code>
+<code><img height="40" alt="javascript" src="./assets/program_lang/matlab.png"></code>
+<code><img height="40" alt="javascript" src="./assets/program_lang/rust.png"></code>
+<code><img height="40" alt="javascript" src="./assets/program_lang/latex.png"></code>
+
 
 
 <!--
