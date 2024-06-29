@@ -1,6 +1,8 @@
-## Hi there 👋 I'm Trushant Adeshara
+## Hi, I'm Trushant Adeshara 👋 
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftrushant-adeshara%2F)](https://www.linkedin.com/in/trushant-adeshara/)
+[![Medium Badge](https://img.shields.io/badge/Medium-black?style=flat&logo=Medium&logoColor=white&link=https%3A%2F%2Fmedium.com%2F%40trushant_64270)](https://medium.com/@trushant_64270)
+
 
 
 
