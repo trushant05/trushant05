@@ -11,15 +11,15 @@ Welcome to my profile! I'm a robotics graduate student at the University of Mich
 
 ## Programming Languages
 
-<code><img height="40" alt="c" src="./assets/program_lang/c.png"></code>
-<code><img height="40" alt="cpp" src="./assets/program_lang/cpp.png"></code>
-<code><img height="40" alt="python" src="./assets/program_lang/python.png"></code>
-<code><img height="40" alt="javascript" src="./assets/program_lang/js.png"></code>
-<code><img height="40" alt="erlang" src="./assets/program_lang/erlang.png"></code>
-<code><img height="40" alt="elixir" src="./assets/program_lang/elixir.png"></code>
-<code><img height="40" alt="matlab" src="./assets/program_lang/matlab.png"></code>
-<code><img height="40" alt="rust" src="./assets/program_lang/rust.png"></code>
-<code><img height="40" alt="latex" src="./assets/program_lang/latex.png"></code>
+<code><img height="50" alt="c" src="./assets/program_lang/c.png"></code>
+<code><img height="50" alt="cpp" src="./assets/program_lang/cpp.png"></code>
+<code><img height="50" alt="python" src="./assets/program_lang/python.png"></code>
+<code><img height="50" alt="javascript" src="./assets/program_lang/js.png"></code>
+<code><img height="50" alt="erlang" src="./assets/program_lang/erlang.png"></code>
+<code><img height="50" alt="elixir" src="./assets/program_lang/elixir.png"></code>
+<code><img height="50" alt="matlab" src="./assets/program_lang/matlab.png"></code>
+<code><img height="50" alt="rust" src="./assets/program_lang/rust.png"></code>
+<code><img height="50" alt="latex" src="./assets/program_lang/latex.png"></code>
 
 
 
