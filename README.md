@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Trushant Adeshara
+
+![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftrushant-adeshara%2F)
+
+
 
 <!--
 **trushant05/trushant05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
