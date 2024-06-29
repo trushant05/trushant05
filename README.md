@@ -7,9 +7,6 @@
 
 Welcome to my profile! I'm a robotics graduate student at the University of Michigan. I am currently research in the domain of multi-robot / multi-agent systems, parallel computing, deep learning and additive manufacturing. Thanks for visiting and let's [connect](https://www.linkedin.com/in/trushant-adeshara/)!
 
-### Table
-
-| Python | C++ |
 
 <!--
 **trushant05/trushant05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
