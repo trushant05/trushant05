@@ -49,3 +49,11 @@ Welcome to my profile! I'm a robotics graduate student at the University of Mich
 <span title="Vim"><code><img height="50" alt="vim" src="./assets/tools/vim.png"></code></span>
 <span title="Docker"><code><img height="50" alt="docker" src="./assets/tools/docker.png"></code></span>
 
+<br>
+
+## References
+
+Here are some amazing GitHub profile READMEs that inspired me:
+1. [JessicaLim8](https://github.com/JessicaLim8/JessicaLim8/blob/master/README.md)
+2. [alexandresanlim](https://github.com/alexandresanlim/alexandresanlim/blob/master/README.md)
+3. [anuraghazra](https://github.com/anuraghazra)
