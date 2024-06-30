@@ -47,6 +47,8 @@ Welcome to my profile! I'm a robotics graduate student at the University of Mich
 <span title="Make"><code><img height="50" alt="make" src="./assets/tools/make.png"></code></span>
 <span title="CMake"><code><img height="50" alt="cmake" src="./assets/tools/cmake.png"></code></span>
 <span title="Vim"><code><img height="50" alt="vim" src="./assets/tools/vim.png"></code></span>
+<span title="Docker"><code><img height="50" alt="docker" src="./assets/tools/docker.png"></code></span>
+
 
 
 
