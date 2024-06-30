@@ -36,12 +36,12 @@ Welcome to my profile! I'm a robotics graduate student at the University of Mich
 <span title="Open RAVE"><code><img height="50" alt="open_rave" src="./assets/robo_fw_sim/open_rave.png"></code></span>
 
 ## Libraries and SDKs
-<span title="OpenCV"><code><img height="50" alt="opencv" src="./assets/lib_sdks/opencv.png"></code></span>
-<span title="GStreamer"><code><img height="50" alt="gstreamer" src="./assets/lib_sdks/gstreamer.png"></code></span>
-<span title="DeepStream"><code><img height="50" alt="deepstream" src="./assets/lib_sdks/deepstream.png"></code></span>
-<span title="CUDA"><code><img height="50" alt="cuda" src="./assets/lib_sdks/cuda.png"></code></span>
-<span title="PyTorch"><code><img height="50" alt="pytorch" src="./assets/lib_sdks/pytorch.png"></code></span>
-<span title="LCM"><code><img height="50" alt="lcm" src="./assets/lib_sdks/lcm.png"></code></span>
+<span title="OpenCV"><code><img height="50" alt="opencv" src="./assets/lib_sdk/opencv.png"></code></span>
+<span title="GStreamer"><code><img height="50" alt="gstreamer" src="./assets/lib_sdk/gstreamer.png"></code></span>
+<span title="DeepStream"><code><img height="50" alt="deepstream" src="./assets/lib_sdk/deepstream.png"></code></span>
+<span title="CUDA"><code><img height="50" alt="cuda" src="./assets/lib_sdk/cuda.png"></code></span>
+<span title="PyTorch"><code><img height="50" alt="pytorch" src="./assets/lib_sdk/pytorch.png"></code></span>
+<span title="LCM"><code><img height="50" alt="lcm" src="./assets/lib_sdk/lcm.png"></code></span>
 
 ## Tools
 <span title="Git"><code><img height="50" alt="git" src="./assets/tools/git.png"></code></span>
