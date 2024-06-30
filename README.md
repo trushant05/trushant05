@@ -9,12 +9,6 @@ Welcome to my profile! I'm a robotics graduate student at the University of Mich
 
 <br>
 
-<p align='center'>
-  <a href="#"><img src='[![Trushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=trushant05)](https://github.com/anuraghazra/github-readme-stats)' width='350'></a>
-</p>
-
-<br>
-
 ## Programming Languages
 <span title="C"><code><img height="50" alt="c" src="./assets/program_lang/c.png"></code></span>
 <span title="C++"><code><img height="50" alt="cpp" src="./assets/program_lang/cpp.png"></code></span>
@@ -61,5 +55,4 @@ Welcome to my profile! I'm a robotics graduate student at the University of Mich
 
 Here are some amazing GitHub profile READMEs that inspired me:
 1. [JessicaLim8](https://github.com/JessicaLim8/JessicaLim8/blob/master/README.md)
-2. [alexandresanlim](https://github.com/alexandresanlim/alexandresanlim/blob/master/README.md)
-3. [anuraghazra](https://github.com/anuraghazra)
+2. [anuraghazra](https://github.com/anuraghazra)
