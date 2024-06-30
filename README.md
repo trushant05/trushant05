@@ -9,6 +9,12 @@ Welcome to my profile! I'm a robotics graduate student at the University of Mich
 
 <br>
 
+<p align='center'>
+  <a href="#"><img src='[![Trushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=trushant05)](https://github.com/anuraghazra/github-readme-stats)' width='350'></a>
+</p>
+
+<br>
+
 ## Programming Languages
 <span title="C"><code><img height="50" alt="c" src="./assets/program_lang/c.png"></code></span>
 <span title="C++"><code><img height="50" alt="cpp" src="./assets/program_lang/cpp.png"></code></span>
