@@ -41,7 +41,6 @@ Welcome to my profile! I'm a robotics graduate student at the University of Mich
 <span title="DeepStream"><code><img height="50" alt="deepstream" src="./assets/lib_sdk/deepstream.png"></code></span>
 <span title="CUDA"><code><img height="50" alt="cuda" src="./assets/lib_sdk/cuda.png"></code></span>
 <span title="PyTorch"><code><img height="50" alt="pytorch" src="./assets/lib_sdk/pytorch.png"></code></span>
-<span title="LCM"><code><img height="50" alt="lcm" src="./assets/lib_sdk/lcm.png"></code></span>
 
 ## Tools
 <span title="Git"><code><img height="50" alt="git" src="./assets/tools/git.png"></code></span>
