@@ -50,7 +50,7 @@ Welcome to my profile! I hold an M.S. in Robotics from the University of Michiga
 
 <br>
 
-## Projects
+## Research & Projects
 <table cellspacing="5" cellpadding="5" width="100%">
   <tr>
     <td align="center">
@@ -104,6 +104,8 @@ Welcome to my profile! I hold an M.S. in Robotics from the University of Michiga
     </td>
   </tr>
 </table>
+
+<br>
 
 ## References
 
