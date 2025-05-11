@@ -48,8 +48,6 @@ Welcome to my profile! I hold an M.S. in Robotics from the University of Michiga
 <span title="CUDA"><code><img height="50" alt="cuda" src="./assets/lib_sdk/cuda.png"></code></span>
 <span title="PyTorch"><code><img height="50" alt="pytorch" src="./assets/lib_sdk/pytorch.png"></code></span>
 
-
-
 <br>
 
 ## References
