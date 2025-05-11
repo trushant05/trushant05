@@ -55,51 +55,51 @@ Welcome to my profile! I hold an M.S. in Robotics from the University of Michiga
   <tr>
     <td align="center">
       <a href="https://nodejs.org/">
-        <img src="assets/svg/nodejs.svg"/><br>NodeJS
+        <img src="assets/svg/nodejs.svg"/><br>IsaacFlow
       </a>
     </td>
     <td align="center">
       <a href="https://typescriptlang.org">
-        <img src="assets/svg/typescript.svg"/><br>TypeScript
+        <img src="assets/svg/typescript.svg"/><br>Roboracer
       </a>
     </td>
     <td align="center">
       <a href="https://reactjs.org">
-        <img src="assets/svg/react.svg"/><br>React
+        <img src="assets/svg/react.svg"/><br>Pallet Insight
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://aws.amazon.com/serverless">
-        <img src="assets/svg/serverless.svg"  height="75px"/><br>Serverless
+        <img src="assets/svg/serverless.svg"  height="75px"/><br>Speech2Mesh
       </a>
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/step-functions">
-        <img src="assets/svg/stepfunction.svg"  height="75px"/><br>Step Functions
+        <img src="assets/svg/stepfunction.svg"  height="75px"/><br>Botlab
       </a>
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/api-gateway">
-        <img src="assets/svg/apigateway.svg" height="75px"/><br>API Gateway
+        <img src="assets/svg/apigateway.svg" height="75px"/><br>Armlab
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://aws.amazon.com/rds/aurora">
-        <img src="assets/svg/aurora.svg" height="75px"/><br>Aurora RDS
+        <img src="assets/svg/aurora.svg" height="75px"/><br>Close Loop in 3D Printing
       </a>
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/sqs">
-        <img src="assets/svg/sqs.svg" height="75px"/><br>SQS
+        <img src="assets/svg/sqs.svg" height="75px"/><br>Edge Cluster
       </a>
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/s3">
-        <img src="assets/svg/s3Bucket.svg" height="75px"/><br>S3 Bucket
+        <img src="assets/svg/s3Bucket.svg" height="75px"/><br>eYantra Robotics Competition 2019
       </a>
     </td>
   </tr>
