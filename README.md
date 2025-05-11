@@ -9,7 +9,7 @@ Welcome to my profile! I hold an M.S. in Robotics from the University of Michiga
 
 <br>
 
-## Programming Languages & Tools
+### Programming Languages & Tools
 <span title="C"><code><img height="50" alt="c" src="./assets/program_lang/c.png"></code></span>
 <span title="C++"><code><img height="50" alt="cpp" src="./assets/program_lang/cpp.png"></code></span>
 <span title="Python"><code><img height="50" alt="python" src="./assets/program_lang/python.png"></code></span>
@@ -26,7 +26,7 @@ Welcome to my profile! I hold an M.S. in Robotics from the University of Michiga
 <!--<span title="Erlang"><code><img height="50" alt="erlang" src="./assets/program_lang/erlang.png"></code></span>-->
 <!--<span title="LATEX"><code><img height="50" alt="latex" src="./assets/program_lang/latex.png"></code></span>-->
 
-## Robotics Framework & Simulators
+### Robotics Framework & Simulators
 <span title="ROS 1"><code><img height="50" alt="ros1" src="./assets/robo_fw_sim/ros1.png"></code></span>
 <span title="ROS 2"><code><img height="50" alt="ros2" src="./assets/robo_fw_sim/ros2.png"></code></span>
 <span title="Gazebo"><code><img height="50" alt="gazebo" src="./assets/robo_fw_sim/gazebo.png"></code></span>
@@ -41,7 +41,7 @@ Welcome to my profile! I hold an M.S. in Robotics from the University of Michiga
 <span title="Robotics Library"><code><img height="50" alt="robotics_library" src="./assets/robo_fw_sim/robotics_library.png"></code></span>
 <span title="Open RAVE"><code><img height="50" alt="open_rave" src="./assets/robo_fw_sim/open_rave.png"></code></span>-->
 
-## Libraries & SDKs
+### Libraries & SDKs
 <span title="OpenCV"><code><img height="50" alt="opencv" src="./assets/lib_sdk/opencv.png"></code></span>
 <span title="GStreamer"><code><img height="50" alt="gstreamer" src="./assets/lib_sdk/gstreamer.png"></code></span>
 <span title="DeepStream"><code><img height="50" alt="deepstream" src="./assets/lib_sdk/deepstream.png"></code></span>
@@ -49,6 +49,61 @@ Welcome to my profile! I hold an M.S. in Robotics from the University of Michiga
 <span title="PyTorch"><code><img height="50" alt="pytorch" src="./assets/lib_sdk/pytorch.png"></code></span>
 
 <br>
+
+## Projects
+<table cellspacing="5" cellpadding="5" width="100%">
+  <tr>
+    <td align="center">
+      <a href="https://nodejs.org/">
+        <img src="assets/svg/nodejs.svg"/><br>NodeJS
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://typescriptlang.org">
+        <img src="assets/svg/typescript.svg"/><br>TypeScript
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://reactjs.org">
+        <img src="assets/svg/react.svg"/><br>React
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://aws.amazon.com/serverless">
+        <img src="assets/svg/serverless.svg"  height="75px"/><br>Serverless
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://aws.amazon.com/step-functions">
+        <img src="assets/svg/stepfunction.svg"  height="75px"/><br>Step Functions
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://aws.amazon.com/api-gateway">
+        <img src="assets/svg/apigateway.svg" height="75px"/><br>API Gateway
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://aws.amazon.com/rds/aurora">
+        <img src="assets/svg/aurora.svg" height="75px"/><br>Aurora RDS
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://aws.amazon.com/sqs">
+        <img src="assets/svg/sqs.svg" height="75px"/><br>SQS
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://aws.amazon.com/s3">
+        <img src="assets/svg/s3Bucket.svg" height="75px"/><br>S3 Bucket
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## References
 
