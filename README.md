@@ -54,7 +54,7 @@ Welcome to my profile! I hold an M.S. in Robotics from the University of Michiga
 <table cellspacing="5" cellpadding="5" width="100%">
   <tr>
     <td align="center">
-      <a href="https://nodejs.org/">
+      <a href="https://trushant05.github.io/isaacflow/">
         <img src="assets/svg/nodejs.svg"/><br>IsaacFlow
       </a>
     </td>
@@ -64,31 +64,31 @@ Welcome to my profile! I hold an M.S. in Robotics from the University of Michiga
       </a>
     </td>
     <td align="center">
-      <a href="https://reactjs.org">
+      <a href="https://trushant05.github.io/pallet_insight_ros2/">
         <img src="assets/svg/react.svg"/><br>Pallet Insight
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://aws.amazon.com/serverless">
+      <a href="https://github.com/trushant05/speech2mesh">
         <img src="assets/svg/serverless.svg"  height="75px"/><br>Speech2Mesh
       </a>
     </td>
     <td align="center">
-      <a href="https://aws.amazon.com/step-functions">
+      <a href="https://github.com/trushant05/botlab_f23">
         <img src="assets/svg/stepfunction.svg"  height="75px"/><br>Botlab
       </a>
     </td>
     <td align="center">
-      <a href="https://aws.amazon.com/api-gateway">
+      <a href="https://github.com/trushant05/armlab_f23">
         <img src="assets/svg/apigateway.svg" height="75px"/><br>Armlab
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://aws.amazon.com/rds/aurora">
+      <a href="https://trushant05.github.io/cl3dp/">
         <img src="assets/svg/aurora.svg" height="75px"/><br>Close Loop in 3D Printing
       </a>
     </td>
@@ -98,7 +98,7 @@ Welcome to my profile! I hold an M.S. in Robotics from the University of Michiga
       </a>
     </td>
     <td align="center">
-      <a href="https://aws.amazon.com/s3">
+      <a href="https://github.com/trushant05/eyantra_2019">
         <img src="assets/svg/s3Bucket.svg" height="75px"/><br>eYantra Robotics Competition 2019
       </a>
     </td>
