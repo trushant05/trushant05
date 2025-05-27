@@ -55,34 +55,34 @@ Welcome to my profile! I hold an M.S. in Robotics from the University of Michiga
   <tr>
     <td align="center">
       <a href="https://trushant05.github.io/isaacflow/">
-        <img src="assets/svg/nodejs.svg"/><br>IsaacFlow
+        <img src="assets/svg/nodejs.svg" height="150px" width="150ps"/><br>IsaacFlow
       </a>
     </td>
     <td align="center">
-      <a href="https://typescriptlang.org">
-        <img src="assets/svg/typescript.svg"/><br>Roboracer
+      <a href="">
+        <img src="assets/svg/typescript.svg" height="150px" width="150px"/><br>Roboracer
       </a>
     </td>
     <td align="center">
       <a href="https://trushant05.github.io/pallet_insight_ros2/">
-        <img src="assets/svg/react.svg"/><br>Pallet Insight
+        <img src="./assets/projects/pallet_insight_ros2.png" height="150px" width="150px"/><br>Pallet Insight
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/trushant05/speech2mesh">
-        <img src="assets/svg/serverless.svg"  height="75px"/><br>Speech2Mesh
+        <img src="./assets/projects/speech2mesh.png"  height="150px" width="150px"/><br>Speech2Mesh
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/trushant05/botlab_f23">
-        <img src="assets/svg/stepfunction.svg"  height="75px"/><br>Botlab
+        <img src="./assets/projects/botlab.png"  height="150px" width="150px"/><br>Botlab
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/trushant05/armlab_f23">
-        <img src="assets/svg/apigateway.svg" height="75px"/><br>Armlab
+        <img src="./assets/projects/armlab.png" height="150px" width="150px"/><br>Armlab
       </a>
     </td>
   </tr>
@@ -93,7 +93,7 @@ Welcome to my profile! I hold an M.S. in Robotics from the University of Michiga
       </a>
     </td>
     <td align="center">
-      <a href="https://aws.amazon.com/sqs">
+      <a href="">
         <img src="./assets/projects/jetson.png" height="150px"/><br>Edge Cluster
       </a>
     </td>
