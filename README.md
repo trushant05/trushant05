@@ -55,12 +55,12 @@ Welcome to my profile! I hold an M.S. in Robotics from the University of Michiga
   <tr>
     <td align="center">
       <a href="https://trushant05.github.io/isaacflow/">
-        <img src="assets/svg/nodejs.svg" height="150px" width="150ps"/><br>IsaacFlow
+        <img src="./assets/projects/isaacflow.png" height="150px" width="150ps"/><br>IsaacFlow
       </a>
     </td>
     <td align="center">
       <a href="">
-        <img src="assets/svg/typescript.svg" height="150px" width="150px"/><br>Roboracer
+        <img src="./assets/projects/roboracer.png" height="150px" width="150px"/><br>Roboracer
       </a>
     </td>
     <td align="center">
@@ -99,7 +99,7 @@ Welcome to my profile! I hold an M.S. in Robotics from the University of Michiga
     </td>
     <td align="center">
       <a href="https://github.com/trushant05/eyantra_2019">
-        <img src="./assets/projects/eYantra.png" height="150px" width="150px"/><br>eYantra Robotics Competition 2019
+        <img src="./assets/projects/eYantra.png" height="150px" width="150px"/><br>eYRC 2019
       </a>
     </td>
   </tr>
