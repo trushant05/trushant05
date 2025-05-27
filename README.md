@@ -89,12 +89,12 @@ Welcome to my profile! I hold an M.S. in Robotics from the University of Michiga
   <tr>
     <td align="center">
       <a href="https://trushant05.github.io/cl3dp/">
-        <img src="assets/svg/aurora.svg" height="75px"/><br>Close Loop in 3D Printing
+        <img src="./assets/projects/cl3dp.png" height="75px"/><br>Close Loop in 3D Printing
       </a>
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/sqs">
-        <img src="assets/svg/sqs.svg" height="75px"/><br>Edge Cluster
+        <img src="./assets/projects/jetson.png" height="75px"/><br>Edge Cluster
       </a>
     </td>
     <td align="center">
