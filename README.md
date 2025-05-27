@@ -89,17 +89,17 @@ Welcome to my profile! I hold an M.S. in Robotics from the University of Michiga
   <tr>
     <td align="center">
       <a href="https://trushant05.github.io/cl3dp/">
-        <img src="./assets/projects/cl3dp.png" height="250px"/><br>Close Loop in 3D Printing
+        <img src="./assets/projects/cl3dp.png" height="150px" width="150px"/><br>Close Loop in 3D Printing
       </a>
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/sqs">
-        <img src="./assets/projects/jetson.png" height="250px"/><br>Edge Cluster
+        <img src="./assets/projects/jetson.png" height="150px"/><br>Edge Cluster
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/trushant05/eyantra_2019">
-        <img src="./assets/projects/eYantra.png" height="250px"/><br>eYantra Robotics Competition 2019
+        <img src="./assets/projects/eYantra.png" height="150px" width="150px"/><br>eYantra Robotics Competition 2019
       </a>
     </td>
   </tr>
