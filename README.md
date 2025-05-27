@@ -99,7 +99,7 @@ Welcome to my profile! I hold an M.S. in Robotics from the University of Michiga
     </td>
     <td align="center">
       <a href="https://github.com/trushant05/eyantra_2019">
-        <img src="./assets/projects/eYantra.png" height="75px"/><br>eYantra Robotics Competition 2019
+        <img src="./assets/projects/eYantra.png" height="275px"/><br>eYantra Robotics Competition 2019
       </a>
     </td>
   </tr>
